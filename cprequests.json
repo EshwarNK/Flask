@@ -1,5 +1,6 @@
 {"index":{"_index":"cxp_archinsights_auditlog_testing", "_type":"person"}}
 {"mappings":{"properties":{"collectionId":{"type":"text","fields":{"keyword":{"type":"keyword","ignore_above":256}}},"serviceName":{"type":"text"},"status":{"type":"text"},"startTime":{"type":"date"},"endTime":{"type":"date"}}}}
+
 //{ "index":{ "_index": "cxp_syslogs_1", "_type": "person" } }
 //{ "name":"john doe","age":25 }
 //{ "index":{ "_index": "cxp_syslogs_2", "_type": "dog" } }
