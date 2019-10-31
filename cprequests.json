@@ -1,0 +1,4 @@
+{ "index":{ "_index": "cxp_syslogs_1", "_type": "person" } }
+{ "name":"john doe","age":25 }
+{ "index":{ "_index": "cxp_syslogs_2", "_type": "dog" } }
+{ "name":"fido","breed":"chihuahua" }
